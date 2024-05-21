@@ -1,0 +1,4 @@
+.env
+description.txt
+venv/
+chromedriver-linux64/
